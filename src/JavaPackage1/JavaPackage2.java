@@ -20,7 +20,7 @@ if (StringName1.equals(StringName2)){
 }
 else{
 	System.out.println("Strings are not equal");
-	//
+	
 }
 	}
 
